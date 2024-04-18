@@ -8,5 +8,3 @@
 
 # What is this app for?
  * An AI Web Design created in ReactJS for my portfolio.
-
-![FrostAI](https://cdn.discordapp.com/attachments/857916178449563659/1222258271834869910/image.png?ex=66158fb8&is=66031ab8&hm=b34c76a5431cfaab111aa2eb419bb661dc1c85244bc22603c12ac8cce6c85ebd&)
